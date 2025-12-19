@@ -157,11 +157,38 @@ ans=num1+num2;
 Lab task : > , < , >=, <= , ==,!=
 
 
+19th Dec
+   if
+   if -else
+   if - elseif
+   nested if
+
+Lab task : Accept day from user and print day name to the console
+input : 3
+output : Wednesday
+
+input : 8
+output : invalid day
+
+input : 5
+output : Friday
 
 
+--->     <,<,>=,<=,==,!=
 
+Lab Task : Month 
+Accespt month name from user and print no of days
 
+input : March 
+output : 31 days in March
 
+input : February 
+output : 28/29 days
+
+switch case - when we have (more)no of alternatives then we should use switch case 
+
+--and or not 
+ && || !
 
 
 
