@@ -1,0 +1,199 @@
+10th Dec
+	- repetative 
+	- efficitely 
+	- accuracy 
+	- no human 
+	
+Tools
+	Manual Testing
+		Jira
+		Postman
+		Excel
+
+	Automation 
+		script 
+		tools may be open source / commercial 
+		eg selenium 
+			palywright
+			cypress
+			UFT
+		
+			selenium 
+			java , python , c# , javascript...
+			java 
+
+			Java
+				- intruduction
+				- installation
+				- basic  - operators , variables ,data types
+				Conditional stmt 
+				loop 
+				array
+				OOPS concept (Encapsulation , Absraction , Polymorphisum , class, object , inheritance)
+				FileHandling
+				Exception 
+				Collection
+		
+			Selenium 
+				Selenium IDE
+				Selenium WebDriver - widely used 
+					WebDriver method
+					WebElement 
+					Locators 
+					Junit 
+					TestNG - pass/fail-assesstion - html report 
+					Framework
+						DataDriven 		
+						PageObjectModel
+
+
+
+Java  - eclipse - selenium
+1. install 
+
+
+Java Program structure 
+1 stmt - package stmt
+2. library - import
+3. class declaration - all stmt are in some class
+4. java file may contain more then one class
+5. extention .java
+6. each java file contains only one public class and i.e java file
+
+Each java file start run from main method
+
+
+15th Dec
+	Introduction	
+	Programming selenium ,automation
+	java - intruduction
+	Program Structure 	
+	installation
+	
+	Basic Programmings 
+
+		- data types  - which kind of data we are storing that is specfied by data types eg. characters(string) ,numeric(whole-decimal numbers , boolean,...)
+			primitive     - int , long , byte , short , float ,doulbe ,char ,boolean 
+			
+			non primitive - array , class
+ 
+		- variables  - idetifier , where you can store value , that may be change eg. name ,age , b_date , marks,gender
+
+	intilization and declaration 
+	- declara variable age with value 20
+	int age=20;
+
+	- dclare grade with value A
+	char grade='A';
+
+	- declara name with value dharmishtha
+	String name="Dharmishtha";
+
+	byte
+	short 
+	int
+	long 
+
+	c_no = 9090909090 
+	age  = 24
+				
+	float - double 
+	float percentage=78.56f;
+	float percentage=78.56F;
+	double sci_value = 23.0000023232323232323;
+	
+	age is -----
+	percentage is .......
+	contact number is ------
+
+	Scanner - class java.util
+
+ 17th Dec
+  . ->member System.out.prinltn  , scan.nextInt
+  () -->method  nextInt(),out,println()
+ "" --> string 
+
+  --- > data types 
+  	Scanner - user input
+	
+	Operators - 
+		Arithmatic  +,-,*,/,%
+		relational  >,>=,<,<=,==,!=
+		logical     && , || , ! (a>b) && (a>c)
+		assignment  +=,-=,*=...a increment 10 a=a+10 , a+=10
+		bitwise   & ,| ,! , <<,>>
+		ternary   conditional --- > condition?true:false
+		increment/decrement) --> a++, a--,++a , --a 
+
+
+conditional stmt 
+		if
+		if -else
+		if-elseif
+
+find greater number from 2 number
+
+num1>num2
+
+if (condition)
+{
+	true block
+}
+else
+{
+	false block
+}
+
+
+Lab task : Arithmatic operators with float values 
+int num1,num2;
+num1=scan.nextInt()
+
+float num1,num2,ans;
+num1=scan.nextFloat()
+
+ans=num1+num2;
+
+Lab task : > , < , >=, <= , ==,!=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+	
+				
+
+
+			
+		
+		
+
+				
+			
+
+			
+	
+
+
+
+
+		
+
+
+
+
+
+
