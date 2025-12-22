@@ -190,7 +190,43 @@ switch case - when we have (more)no of alternatives then we should use switch ca
 --and or not 
  && || !
 
+22th Dec
 
+--- conditional stmt 
+--- operators 
+-- loops 
+          repeation , 
+			print hello world 10 times 
+			1. for 2. while 3. do while
+		1 for
+		for(initlization;condition;increment/decrement)
+		{
+			block of code
+		}
+		hello world 10 times 
+		for(int i=1;i<=10;i++)
+		{
+			sop("Hello World");
+		}
+
+
+8 * 1 =8
+8 * 2 = 16
+8 * 3 = 24
+...
+
+-- while 
+while(condition)
+{
+	block_of_stmt
+}
+
+int i=1;
+while(i<=10)
+{
+	sop("Hello world")
+	i++;
+}
 
 
 
