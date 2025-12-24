@@ -228,9 +228,27 @@ while(i<=10)
 	i++;
 }
 
+24th Dec
+    
+while loop - multiplication table
+            - sum of 1 -10 numbers 
+				sum=1+2
+					i= sum
+				3+3 =6
+				6+4 =10
+				10+5=15
+
+Lab task perform all the for loop example with while and do---while
 
 
+for ,while - entry control loop 
+do-while - exit control loop ,it executes at least once 
 
+while and do while - when you don't no of iteration in advanced
+
+--control statement 
+   - break - breaks the loop based perticular condition 
+   - continue - it skip current iteration and execute next iteration 
 
 
 
