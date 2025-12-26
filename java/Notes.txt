@@ -250,9 +250,31 @@ while and do while - when you don't no of iteration in advanced
    - break - breaks the loop based perticular condition 
    - continue - it skip current iteration and execute next iteration 
 
+26th Dec
+   break ,continue 
+
+Array - 
+		int eid1=1001,eid2=2001,eid3=3001,eid4 ......eid100;
+		int marks1,marks2,marks3.....marks1000;
+
+same types of data want to store then i have to array.
+Group of elements having same data types .
+continues memory location 
+
+array_index , array_element 
+array elements always access thru index 
+
+declare array having 100 numbers ,type of int
+int[] eid=new int[100];
+access elements thru index , and index starts with 0
+
+0 ,1 ,2 ....99 index 
 
 
-			
+
+
+
+
 
 	
 				
