@@ -270,7 +270,17 @@ access elements thru index , and index starts with 0
 
 0 ,1 ,2 ....99 index 
 
+29th Dec
 
+	Arrays --- store multiple values in single variable.
+				index - element
+				eid[0] - 120
+				
+		int[] arr= {12,45,6767,234234,87,5,3,21};
+
+		arr[0]+arr[1]+arr[2]+...
+		sum=sum+arr[i];
+		sum=12+45
 
 
 
