@@ -286,6 +286,65 @@ access elements thru index , and index starts with 0
 31st Dec 
  - Array - 
 
+2nd Jan
+	Array Multidinamentional 
+10 numbers
+12
+23
+56
+78
+90
+.
+.
+.
+.
+
+matrix - 2D
+2D array - elements ,index 
+
+1D - int[] numbers=new int[10];
+2D - int[][] numbers=new int[3][3];   ---  matrix 3X3
+	11	22	33
+	22	33	44
+	44	55	66
+
+2X3 = 2rows and 3 columns
+int[][] numbers=new int[2][3]  --- matrix 2X3
+
+4 rows and 2 columns
+int[][] numbers=new int[4][2];
+no of elements ---> 8
+by default =0 	
+				 0th col		1st col
+index 0th row --- 00			01
+				  12			78 			numbers[0][1]
+				 0th col
+		1st row index --10		  11  [1][0] [1][1]
+	element/value	   35		  67			numbers[1][1]
+
+/second method 4x2
+int[][] numbers={{12,78},{35,67},{90,56},{12,78}};
+12	78
+35	67
+90	56
+12	78
+"Hello" world
+
+"\"Hello\" World"
+Hello world
+search an element from matrix
+
+1. ask to user which element you want to search
+--> if(num==numbers[i][j])
+		{
+			sop("element is found");
+			break;
+	}
+
+
+
+
+
 
 	
 				
