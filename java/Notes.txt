@@ -369,6 +369,26 @@ add diaglonal elemenets
 10	10	10
 1+20+10 = 31
 
+7th Jan
+
+Matrix ---
+
+operators 
+conditional stmts -if,if-elseif...switch
+loops - for,while , do while
+
+1. matrix 2x3 even element sum of even elements 
+
+12
+23
+24
+2
+3
+5
+12+24+2 = 38
+
+
+
 
 
 
