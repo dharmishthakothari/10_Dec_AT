@@ -387,6 +387,33 @@ loops - for,while , do while
 5
 12+24+2 = 38
 
+9th Jan
+
+OOPS 
+    ---class
+			Blueprint 
+			methods /data
+			data memebers and member function
+			state and behaviour
+			collection of objects
+			Vehical --- seat,accelator , break ,color,price ,model
+						driving
+	
+    ---object
+				instance of class
+				type of class
+				object is real entity.
+				Vehical schooter;
+				Vehical car;
+				Vehical bike;
+				object have thr own data 
+				car.seat=4;
+				bik.seat=2;
+
+   --- Inheritance
+   ---Polymorphisum
+   ---Encapsulation
+   ---Abstraction
 
 
 
