@@ -416,8 +416,28 @@ OOPS
    ---Abstraction
 
 
+12th Jan 
+	- OOPS 
+		1. class  - blueprint,collection of objects , it have data members and member function , memory is not occupied
+		2. object - instance of class , its type class , real entity , memory is occuied for object
+   Book   -- title,no_of_pages,price --getDetails() ,display()
+		3. Inheritance -- Parent/Child --property of one class can use property of another class 
+						-Reusability
+						1. Single 		--One parent One child
+						2. Multilevel	--GrandParent-Parent-Chilc
+						3. Multiple     --Mother-Father/Child  (Not supported directly in java) thur interfaces
+						4. Hierchical   -- A can be used/derived in B and C
+						5. Hybrid		-- Mixing of any above 
 
-
+		Person  -- name,address , c_no --getData(),display()
+		Employee --eid,name,address,c_no,salary,department --- getData,display()
+	
+Lab Task :1. Create Product class having data -- pid,name,price , no_of_qty  getDetails(),display()
+				output  101   Juicer 2000  12
+						102   Hair Driyer 1000 10
+		2 . create array of product 5 product and you have to caclualte total Price (price*qty) 	
+			
+		
 
 
 
