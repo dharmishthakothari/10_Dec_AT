@@ -35,6 +35,7 @@ public class Example3 {
 		// TODO Auto-generated method stub
 		Employee obj=new Employee();
 		
+		
 	}
 
 }
