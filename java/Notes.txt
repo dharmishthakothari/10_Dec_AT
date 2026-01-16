@@ -438,7 +438,21 @@ Lab Task :1. Create Product class having data -- pid,name,price , no_of_qty  get
 		2 . create array of product 5 product and you have to caclualte total Price (price*qty) 	
 			
 		
+16th jan
+   Inheritance ---
+				parent - child -  property of one class can use property of another class
+                          REusability
 
+	Constructor ? --- To initilze object
+				 --- it called automatically 
+	            -- have same name as class name
+               -- when you are create object at that time constructor is called 
+              -- No return type 
+              -- every java class have default constructor (no parameters)
+              -- class can have more then one constructor
+
+Lab task : method vs contructor
+			Book class convert getDetails()--- constructors
 
 
 
