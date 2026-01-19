@@ -455,7 +455,10 @@ Lab task : method vs contructor
 			Book class convert getDetails()--- constructors
 
 
+19th Jan
 
+Student obj=new Student(12,'ttttt','c g ro0ad');
+Student obj1=new Student();
 	
 				
 
