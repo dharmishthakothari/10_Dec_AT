@@ -460,15 +460,50 @@ Lab task : method vs contructor
 Student obj=new Student(12,'ttttt','c g ro0ad');
 Student obj1=new Student();
 	
-				
+21st Dec
+  - Inheritance -- property of one class can use property another class.
+ 					resuability
+					'is a' relationship
+		Types -- Single  - one parent - one child
+                 Multiple  - 2 parent 1 child (not supported direclty but you can use interface)
+                 Multilevel  - 1 parent - parent - another child
+				Hybrid  -- mixing
+				Hierarchical - one parent -- child1 - child 2 
 
 
+
+Shape
+REctangle  is Shape
+Square is Shape
+Circle is Shape
 			
+		Rectangle --- find area -- lengh* width ---constructors 
+		Square ---find area --- side*side
+		Circle -- find area - pi*radius*radius
 		
-		
+Polymorphissum 
+        Many Forms 
+		--addition = 12+67
+                   = 6767.3434+234234.54645
+					= 24324+34234.234
+2 types 
+---> compile time/static binding  -- eg. method overloading / operator overloading(not supported)
+			At the time compilation ,it deside which is method is called 
+---> Runtime / dynamic binding -- eg. method overriding 
+			At the run time it calling method 
+
+
+Method Overloading 
+  	Same method name , argument are diffrent 
+    int addition(int,int)
+	int addition(float,float,int)
+	int addition(double,int)
+Lab task : class Person basic info (name,cNo,address) , Employee use Person for basic info and employee data department_name,salary ,Student use Person for basic into and student class have data marks,branch_name.
 
 				
-			
+			123 = noOfDigit = 3 1^3+2^3+3^3 = 1+8+27 = 
+			1111 = 4 = 1^4+1^4+1^4 = 1+1+1+1 = 4
+			153 = 1^3 + 5^3 + 3^3 = 1+125+27 =153 
 
 			
 	
