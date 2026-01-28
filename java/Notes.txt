@@ -530,6 +530,37 @@ Create subclasses LaserPrinter and InkjetPrinter overriding print().
 Add a method in the base class called testPrint(Printer p) that calls p.print().
 In main, pass different subclass instances to testPrint().
 
+28th Jan
+--class
+--object
+--inheritance
+--polymorphisum
+--encapsulation  --- wrapping of data and member function into single unit .
+					data private , methods are public 
+				   outside memebers can not use data . thru getter and setter methods we can use it.
+
+
+					private -- within class only 
+					default -- same package 
+					protected ---same package , acess within subclass even in other package
+					public  --- we access every where 
+			this -- current object reference 
+					int cNo;
+					Person(int cNo)
+					{
+						this.cNo=cNo;
+					}
+
+	
+--abstraction ---
+				data hiding 
+				summary 
+				abstract class , method 
+				1. you can not create object of abstract class
+				2. if one method is abstract then that class becomes an abstract class
+				3. Abstract class can contains abstract and non-abstract (concreate) method
+				4. abstract forces to subclass that abstract method must override.
+				5. abstract method doesn't have body
 
 
 
