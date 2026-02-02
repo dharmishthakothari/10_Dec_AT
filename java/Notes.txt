@@ -563,5 +563,30 @@ In main, pass different subclass instances to testPrint().
 				5. abstract method doesn't have body
 
 
+2nd feb
+	Showing essential details and hide other details
+    abstract method,class
+	IF METHOD IS ABSTACT THEN CLASS IS ALSO ABSTRACT
+
+
+	INTERFACES ---100% abstract 
+				  implements 
+				  thru interface you can achive multiple inheritance (more then one interfaces can be implement in class)
+				all data are bydefault public final 
+
+-				interface vs class
+					--interface contains only abstract method while class have concrete methods
+					--interfaces always implements while class can extends
+					--you can implements more then one interface in single class , class you can extensd only class
+
+-				class vs abstract class
+					--object creation
+					--classs contain non abstract method while abstract class contains one or more abstract method
+					
+-				interface vs abstract class
+					--bydefault all methods are abstract in interface while abstract class contains abstract and non abstract methods .
+			keyword final --- variable ---constant 
+				  		---- method ---that method can not be overriden
+						--- class - that class must not subclass
 
 
