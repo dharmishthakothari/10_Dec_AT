@@ -589,4 +589,18 @@ In main, pass different subclass instances to testPrint().
 				  		---- method ---that method can not be overriden
 						--- class - that class must not subclass
 
+4th Feb
+   keywords --- abstract , final , this ,super , static 
 
+---Exceptions
+		break normal execution.eg. incorrect input, divide by 0 , access the array index beyond limit
+   2 types 
+	 1. Run time/unchecked
+     2. Compile time/checked
+
+To handle compile time exception must use try-catch or throws 
+i try block have multiple catch blocks
+Exception main class , which contains all other exception
+
+--File Handling
+--Collection 
