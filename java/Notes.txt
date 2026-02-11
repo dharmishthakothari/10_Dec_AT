@@ -604,3 +604,10 @@ Exception main class , which contains all other exception
 
 --File Handling
 --Collection 
+
+11th Feb
+
+After try either catch block or finally block
+finally - it executes wether exception occur or not 
+
+
