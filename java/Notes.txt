@@ -610,4 +610,30 @@ Exception main class , which contains all other exception
 After try either catch block or finally block
 finally - it executes wether exception occur or not 
 
+13th Feb
+File Handling  ---- File read / File Write 
+1. File open
+2. File read / data read
+3. File close
+
+write 
+1.File open
+2. File write 
+3. file close 
+
+java program - documents read
+
+Java --- pipe/stream ---file read/write 
+Stream Classes 
+
+read/write 1. byte   --- InputStream/Output classes 
+		   2. character --- Reader/Writer classes 
+
+File Object --- 
+
+Lab Task : check str is directory of file
+
+read Stream classes ---byte
+InputStream  ---- abstract class --
+
 
