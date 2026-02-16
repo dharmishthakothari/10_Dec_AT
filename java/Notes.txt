@@ -636,4 +636,14 @@ Lab Task : check str is directory of file
 read Stream classes ---byte
 InputStream  ---- abstract class --
 
+16th Feb 
+read(byte[])
+read(byte[],int,int)
+
+
+write 
+--copy from one to another /copy 
+
+Labtask : write , read methods 
+
 
