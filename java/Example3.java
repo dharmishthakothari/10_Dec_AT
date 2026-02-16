@@ -1,39 +1,15 @@
-package pkgOOP;
+package pkgAdv;
 
-import java.util.Scanner;
-
-class Person
-{
-	int c_no;
-	String name,address;
-	public void getDetails()
-	{
-		Scanner scan=new Scanner(System.in);
-		System.out.println("Enter name");
-		name=scan.next();
-		
-		System.out.println("Enter address");
-		address=scan.next();
-		
-		System.out.println("Enter c_no");
-		c_no=scan.nextInt();
-	}
-	public void display()
-	{
-		System.out.println(name+"\t"+address+"\t"+c_no);
-	}
-}
-
-class Employee extends Person
-{
-	
-}
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
 
 public class Example3 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws FileNotFoundException {
 		// TODO Auto-generated method stub
-		Employee obj=new Employee();
+		
+		FileInputStream fis=new FileInputStream("");
 		
 		
 	}
