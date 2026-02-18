@@ -646,4 +646,25 @@ write
 
 Labtask : write , read methods 
 
+18th Feb
+---- Reader/Writer classes to read/write character by character
+FileInputStream/FileReader
+FileOutStream/FileWriter
 
+n -- 
+\n -new line
+t-
+\t
+\\
+sop("Hello World");
+Hello "World"
+
+sop("Hello \"World\"")l
+
+
+Wrapper classes ---- int , float ,char , boolean ,
+int  ----- Integer
+float --- Float
+long ---- Long
+char -- Character
+boolean - Boolean
