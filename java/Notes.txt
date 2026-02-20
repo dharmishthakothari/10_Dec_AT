@@ -668,3 +668,18 @@ float --- Float
 long ---- Long
 char -- Character
 boolean - Boolean
+
+
+20th Feb
+Collection --- group of objects 
+	structure , to store , to manupulate object 
+    List - ordered and have multiple items and can be dublicate 
+	Set - unrodered and doesn't allow dublicate
+interfaces 
+ArrayList , LinkedList .....
+
+
+
+Map - 
+
+
