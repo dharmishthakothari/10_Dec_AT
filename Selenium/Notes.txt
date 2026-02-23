@@ -1,1 +1,27 @@
+Automation ?
+      Test with some tool
+      Script automatic run
+      time saving
+      redudancy / efficent
+      accuracy 
+      Performance testing - must have to automate 
+      check only once -- manually
+      usability(easy to use) - manually
+      regression -- automate 
+      requirement frequenty change --- manually
+      GUI is not stable -- not automate
+      skill tester/scriting/language - automate
+      tool availaiblity -- 
 
+Selenium --- 
+            Automation testing tool
+            suite - selenium IDE + Selenium Webdriver + Selenium Grid
+            Selenium open source 
+            It supports veriety of languages (java,python , javascript...C#)
+            Supports all browser and os
+
+
+Selenium IDE ---- Record and Play 
+
+
+Selenium --- 
