@@ -679,7 +679,11 @@ interfaces
 ArrayList , LinkedList .....
 
 
+23rd Feb
+Map -  key,value (key must be unique and value may be dublicate)
 
-Map - 
+String- StringBuffer - StringBuilder 
+String --- immutable
+String name="Dharmishtha"
 
 
