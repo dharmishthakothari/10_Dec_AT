@@ -22,6 +22,25 @@ Selenium ---
 
 
 Selenium IDE ---- Record and Play 
+      Assert ---- confirmation 
+  1. title 
 
+Assert vs verify 
+   assert -- if failed next steps are not going to executes
+   verify -- if failes next steps are continue
 
 Selenium --- 
+
+WebDriver ----- 
+multiple browser/os
+
+configure --- Java  -- Selenium -- eclipse
+eclipse -java + Selenium (jar) Third Party 
+
+WebDriver ---- interface root , webdriver browsert specfic methods 
+ChromeDriver
+FirefoxDriver
+EdgeDriver
+OperaDriver
+
+
