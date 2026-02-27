@@ -43,4 +43,28 @@ FirefoxDriver
 EdgeDriver
 OperaDriver
 
+27th Feb
+configration / installation 
+WebDriver - API 
+Browser open
+url open
+quit
+
+1. open browser
+2. url open
+3. menu click
+4. get title
+5. menu click 
+5. get title
+6. quit
+
+Everything on webpage is webelement
+menu,textbox , image,checbox,dropdown,text content ..
+
+WebElement --textbox,password,dropdown......
+Locator  --- identify by name,id,linktext , cssSelector , xpath,classname,tagname .....
+
+Lab Task : ---  open google
+                  click on about and store and gettitle
+                  facebook ---login try
 
