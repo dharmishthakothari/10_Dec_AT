@@ -68,3 +68,11 @@ Lab Task : ---  open google
                   click on about and store and gettitle
                   facebook ---login try
 
+2rd march 
+--- Registration form 
+---findElements
+
+id,name,tagname , 
+xpath , cssSelector --- ? 
+----dropdown --country and try for colors and sorted List (Select)
+
