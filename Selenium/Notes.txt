@@ -76,3 +76,14 @@ id,name,tagname ,
 xpath , cssSelector --- ? 
 ----dropdown --country and try for colors and sorted List (Select)
 
+11th March 
+--- WebDriver  --- get,getTitle , findElement,findElements
+----WebElement --- click,sendKeys,getAttribute , getText
+---Locators --- id,name,xpath,cssSelector,classname,tagName,linktext,PartialLinkText
+---Handle  -textBox,password , dropdown,
+
+LabTask --- 1. Handle second Table 
+            2. Show only CPU load is more then 7.6%
+
+cssSelector vs Xpath
+
