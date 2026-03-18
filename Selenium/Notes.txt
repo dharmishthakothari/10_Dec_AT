@@ -91,3 +91,19 @@ cssSelector vs Xpath
 --Wait
 ---Actions
 ---Scrollbar
+
+18th March 
+--TEstNG
+      Framework NextGeneration 
+
+Annotations ---@ --metadata -data about the data
+@Test ---This test
+@BeforeMethod ----This will execute before test method
+@AfterMethod ---This will execute after test method
+
+---groups --- smoke 
+               mathemics
+              statatics
+
+installation ---https://testng.org/testng-eclipse-update-site/
+
