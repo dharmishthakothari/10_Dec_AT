@@ -107,3 +107,13 @@ Annotations ---@ --metadata -data about the data
 
 installation ---https://testng.org/testng-eclipse-update-site/
 
+20th March 
+
+import org.testng.annotations.Test;
+
+public class TestClass1 {
+    @Test
+    public void f() {
+        System.out.println("This is first Test");
+    }
+}
