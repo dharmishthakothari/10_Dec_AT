@@ -117,3 +117,18 @@ public class TestClass1 {
         System.out.println("This is first Test");
     }
 }
+
+23rd march
+
+---priority
+   enabled
+   groups
+   dependsOnMethods
+   dependsOnGroups
+invocationCount
+
+
+3 test method
+1. valid
+2. invalid
+3. blanck
