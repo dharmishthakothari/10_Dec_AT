@@ -132,3 +132,17 @@ invocationCount
 1. valid
 2. invalid
 3. blanck
+
+25th March
+
+Assertion ----- actualResult -expectedResult
+2 types 
+soft assertion
+hard assertion 
+
+
+Parameterization 
+----same test case diffrent data ke sath execute karna hain to use parameterization 
+1. xml   ---- class,test level 
+2. DataProvider    -- annotation 
+
