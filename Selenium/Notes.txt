@@ -146,3 +146,33 @@ Parameterization
 1. xml   ---- class,test level 
 2. DataProvider    -- annotation 
 
+
+27th March 
+---  Dataprovider ---- 
+            I want data read from excel file 
+            will use those datas in test script
+Read File ---txt , excel(Workbook,Worksheet,row,cell , DATA)
+another libarary to work with excel , poi download -method use 
+
+---jar project main add ki
+---class read data from excel 
+---data fetch TESTNG-class (DataProvider)
+
+LabTask ---
+create excel file where registration data are stored .
+create testng class that register thru this excel data .
+
+xml file ---configration file (textng.xml)
+Annotations
+Assertions
+test attributes 
+Paramterization (xml,Dataprovider)
+
+MAVEN
+Project Management Tool
+-pom.xml
+-resource --xlsx 
+
+
+
+
