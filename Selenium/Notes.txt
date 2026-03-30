@@ -173,6 +173,15 @@ Project Management Tool
 -pom.xml
 -resource --xlsx 
 
+30th March 
+--Maven 
+
+LabTask : Register with excel , testng variafication ,selenium 
+
+POM --Page Object Model
+
+Jmeter
+
 
 
 
