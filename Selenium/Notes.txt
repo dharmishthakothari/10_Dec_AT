@@ -182,6 +182,37 @@ POM --Page Object Model
 
 Jmeter
 
+1st April 
+Page Object Model  ---design pattern
+Pages  ---- Login,registration,HomePage,FlightBooking,Feedback.....class all webElement will be the 
+Test  ----- LoginTest,RegistrationTest,HomePageTest
+BaseClass ---driver
+
+WebElement ele=driver.findElement
+
+@FindBy
+
+LabTask : Registration with POM (try with DataProvider with excel)
+
+Selenium ----   
+Java,
+Slenium IDE
+WebDriver , WebElement interfaces 
+all components textbox,checkbox,dropdown,tables etc...
+Waits 
+Actions
+Alerts
+Scrollbars
+Text NG ---Annotations , Parameterization ,m confirations , excel reading(Data drivern Testing)
+Maven
+POM
+
+JMETER --->? Performance Testing 
+Open source , apache 
+
+
+
+
 
 
 
