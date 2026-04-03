@@ -211,7 +211,31 @@ JMETER --->? Performance Testing
 Open source , apache 
 
 
+3rd April 
+POM ---Page Object model ---design Pattern 
+Pages  ---- class --LoginPage  ,HomePage
+Tests --- TestNG  --- LoginTest  , HomeTest
 
+Jmeter --- 
+
+installation 
+
+LabTask : request ---
+Exercise 
+
+Create a JMeter test plan that simulates 10 concurrent users accessing the homepage for 1 minute and record the response time and success rate.
+
+Create a JMeter Test Plan
+Add a Thread Group with:
+Number of Threads (Users): 10
+Ramp-Up Period: 10 seconds
+Loop Count: 6 (or use Duration = 60 seconds)
+Add an HTTP Request Sampler to send a GET request to the given URL (https://httpbin.org/)
+Add the following Listeners:
+      View Results Tree
+      Summary Report
+      Aggregate Report
+Run the test and observe the results
 
 
 
