@@ -264,3 +264,122 @@ Path: /index.html
 
 Method: GET
 
+----
+
+13th April 
+--- AI se project
+---google Antigravity ---AI agent
+--prompt
+1. download antigravity
+
+Act as a Senior Automation Test Architect.
+
+Create a complete, production-ready automation testing framework using:
+
+- Language: Java
+- Automation Tool: Selenium WebDriver
+- Test Framework: TestNG
+- Design Pattern: Page Object Model (POM)
+- Build Tool: Maven
+- Reporting: Extent Reports (or Allure if preferred)
+- Logging: Log4j or SLF4J
+- Configuration: Properties file support
+- Parallel Execution: Enabled via TestNG
+- CI-ready structure
+
+Target Application:
+https://testautomationpractice.blogspot.com/
+
+Your task is to:
+
+1. Project Setup
+- Provide Maven project structure
+- Include all required dependencies in pom.xml
+- Include plugins for compilation and execution
+- Java version compatibility
+
+2. Framework Design
+- Follow Page Object Model strictly
+- Create:
+  - BaseTest class
+  - BasePage class
+  - DriverFactory (Singleton or ThreadLocal for parallel execution)
+  - ConfigReader utility
+  - WaitUtils (explicit waits)
+  - Screenshot utility
+  - Test data handling (hardcoded + optional Excel/JSON support)
+
+3. Pages to Automate
+Cover ALL major UI elements in the application, including:
+- Text input fields
+- Radio buttons
+- Checkboxes
+- Dropdowns
+- Date picker
+- Alerts
+- Frames/iframes
+- Tables (static and dynamic)
+- Mouse actions (drag & drop if available)
+- File upload (if applicable)
+
+Create separate Page Classes for each logical section.
+
+4. Test Cases (TestNG)
+Write comprehensive test cases including:
+- Positive scenarios
+- Negative scenarios
+- Edge cases
+
+Examples:
+- Form submission validation
+- Field validation checks
+- Alert handling
+- Table data extraction & validation
+- Frame switching validation
+- Dropdown selection validation
+
+Use:
+- @BeforeMethod / @AfterMethod
+- @DataProvider for parameterization
+- Assertions (hard + soft)
+
+5. Reporting
+- Integrate Extent Reports (or Allure)
+- Capture screenshots on failure
+- Log test steps clearly
+
+6. Logging
+- Implement logging for:
+  - Test steps
+  - Failures
+  - Debug info
+
+7. Parallel Execution
+- Configure testng.xml for parallel execution
+- Ensure thread-safe WebDriver handling
+
+8. Code Quality
+- Follow clean coding standards
+- Add comments and JavaDocs
+- Use reusable methods
+- Avoid duplication
+
+9. Deliverables
+Provide:
+- Complete folder structure
+- All Java class files
+- pom.xml
+- testng.xml
+- Sample test execution steps
+- Commands to run the project
+
+10. Bonus (if possible)
+- Add retry mechanism for flaky tests
+- Add tagging/grouping in TestNG
+- Add headless execution option
+- Add CI integration example (Jenkins or GitHub Actions)
+
+Important:
+- Code should be ready to run without major fixes
+- Use best practices used in real-world enterprise automation frameworks
+- Keep code modular, scalable, and maintainable
